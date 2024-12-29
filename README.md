@@ -1,2 +1,2 @@
-# Paratice-JavaScript
+# Practice-JavaScript
 Clear The Concept
